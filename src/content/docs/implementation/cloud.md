@@ -1,5 +1,5 @@
 ---
-title: Tech Stack
+title: Cloud
 tableOfContents: false
 sidebar:
     order: 2
