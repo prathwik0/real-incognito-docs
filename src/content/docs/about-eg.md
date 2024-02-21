@@ -1,5 +1,6 @@
 ---
 title: About EG
+tableOfContents: false
 sidebar:
     order: 4
 ---
@@ -10,7 +11,9 @@ EG provides Nordic **vertical software** that enables customers to further devel
 
 EG develops, delivers and services their own software for more than 26,000 customers in the private and public sectors. Since 1978 they have brought enduring innovation year after year to the Scandinavian market within the industries.
 
-Requirements
+---
+
+Requirements in problem statement
 
 -   Provide platform to house customer data
 -   Need to protect customer's data

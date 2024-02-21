@@ -8,14 +8,14 @@ export default {
         extend: {
             colors: {
                 // Your preferred accent color. Indigo is closest to Starlight’s defaults.
-                accent: colors.red,
+                accent: colors.indigo,
                 // Your preferred gray scale. Zinc is closest to Starlight’s defaults.
                 gray: colors.black,
             },
             fontFamily: {
                 // Your preferred text font. Starlight uses a system font stack by default.
-                sans: ['"Poppins","Arial"', '"PT Sans"'],
-                // sans: ['"Times New Roman"', '"Baskerville"', '"Atkinson Hyperlegible"'],
+                //sans: ["Arial"', '"PT Sans"', '"Baskerville"'],
+                sans: ['"PT Sans"', '"Atkinson Hyperlegible"'],
                 // Your preferred code font. Starlight uses system monospace fonts by default.
                 mono: ['"IBM Plex Mono"'],
             },

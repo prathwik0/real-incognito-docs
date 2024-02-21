@@ -1,5 +1,6 @@
 ---
-title: Final
+title: Final Approach
+tableOfContents: false
 sidebar:
     order: 1
 ---

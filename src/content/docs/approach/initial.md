@@ -1,5 +1,6 @@
 ---
 title: Initial Idea
+tableOfContents: false
 sidebar:
     order: 2
 ---

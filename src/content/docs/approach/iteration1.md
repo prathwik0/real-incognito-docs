@@ -1,5 +1,6 @@
 ---
 title: Iteration 1
+tableOfContents: false
 sidebar:
     order: 3
 ---
