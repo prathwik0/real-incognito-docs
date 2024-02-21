@@ -39,6 +39,12 @@ export default defineConfig({
                     },
                 },
                 {
+                    label: 'Implementation',
+                    autogenerate: {
+                        directory: '/implementation',
+                    },
+                },
+                {
                     label: 'Research',
                     autogenerate: {
                         directory: '/research',
